@@ -13,7 +13,6 @@ void main (){
     for (contador=0;contador<=21;contador++){
         proximo = anterior + fixo;
         fixo = proximo;
-        
         anterior = fixo;
         printf("\n%d", proximo);
     }
