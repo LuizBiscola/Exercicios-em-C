@@ -10,7 +10,7 @@ int main (void){
     aux=a;
     a=b;
     b=aux;
-    printf("\nOs valores de a é: %d", a);
-    printf("\nOs valores de b é: %d", b);
+    printf("\nOs valores de a Ã©: %d", a);
+    printf("\nOs valores de b Ã©: %d", b);
     getche();
 }
